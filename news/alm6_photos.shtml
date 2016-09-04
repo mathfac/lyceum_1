@@ -1,0 +1,151 @@
+
+<HTML>
+<!--#include virtual="../main/top.shtml"--> 
+<HEAD>
+		
+		<TITLE>Фотографии участников шестого лицейского альманаха</TITLE>
+ 		<LINK href="../style.css" rel="stylesheet" type="text/css">
+</HEAD>
+
+<BODY>
+<H2 align="center"> Фотографии участников шестого лицейского альманаха</H2>
+
+<br>
+<table width="100%">
+          <tr> 
+            <td colspan="4"><CENTER>
+                <img src="images/Almanache_6/title_page2.jpg"> 
+              </CENTER>
+              <CENTER>
+              </CENTER>
+              <CENTER>
+              </CENTER>
+              <CENTER>
+              </CENTER></td>
+          </tr>
+          <tr> 
+            <td width="25%"><br> <BR> <div align="center"><img src="images/Almanache_6/1.jpg"></div>
+              </td>
+            <td width="25%"><div align="center"><br>
+                <BR>
+                <img src="images/Almanache_6/2.jpg"></div>
+              </td>
+            <td width="25%"><div align="center"><br>
+                <BR>
+                <img src="images/Almanache_6/3.jpg"></div>
+              </td>
+            <td width="25%"><div align="center"><br>
+                <BR>
+                <img src="images/Almanache_6/4.jpg"></div>
+</td>
+          </tr>
+          <tr class="Text"> 
+            <td><div align="center"><font face="Arial" size="2">Віктор Савєльєв</div></td>
+            <td width="25%"><div align="center"><font face="Arial" size="2">Олег Корнєв</FONT></div></td>
+            <td width="25%"><div align="center"><font face="Arial" size="2">Віктор Кміта</FONT></div></td>
+            <td width="25%">              <div align="center"><font face="Arial" size="2">Ігор Сілівра</FONT></div></td>
+          </tr>
+          <tr> 
+            <td> <br> <div align="center"><img src="images/Almanache_6/5.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/6.jpg"></div></td>
+            <td><br> <BR> <div align="center"> <img src="images/Almanache_6/7.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/8.jpg"></div></td>
+          </tr>
+          <tr class="Text"> 
+            <td><div align="center"><font face="Arial" size="2">Ольга Сарахман</div></td>
+            <td><div align="center"><font face="Arial" size="2">Євген 
+                Лотоцький</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Олексій Помирляну</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Антон 
+                Краснощок</FONT></div></td>
+          </tr>
+          <tr> 
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/9.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/10.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/11.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/12.jpg"></div></td>
+          </tr>
+          <tr class="Text"> 
+            <td><div align="center"><font face="Arial" size="2">Валерій 
+                Гаврилюк</div></td>
+            <td><div align="center"><font face="Arial" size="2">Денис 
+                Краєвський</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Михайло 
+                Струтинський</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Вадим 
+                Міхневич</FONT></div></td>
+          </tr>
+          <tr> 
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/13.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/15.jpg"></div></td>
+            <td> <br> <BR> <div align="center"><img src="images/Almanache_6/14.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/16.jpg"></div></td>
+          </tr>
+          <tr class="Text"> 
+            <td><div align="center"><font face="Arial" size="2">Анастасія 
+                Янкова</div></td>
+            <td><div align="center"><font face="Arial" size="2">Олександр 
+                Максимець</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Аліна 
+                Васильчук</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Павло 
+                Барановський</FONT></div></td>
+          </tr>
+          <tr> 
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/17.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/18.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/19.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/20.jpg"></div></td>
+          </tr>
+          <tr class="Text"> 
+            <td><div align="center"><font face="Arial" size="2">Дмитро 
+                Солодкий</div></td>
+            <td><div align="center"><font face="Arial" size="2">Анна Заяц</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Ірина 
+                Кузнєцова</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Богдан 
+                Шеленко</FONT></div></td>
+          </tr>
+          <tr> 
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/21.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/22.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/23.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/24.jpg"></div></td>
+          </tr>
+          <tr class="Text"> 
+            <td><div align="center"><font face="Arial" size="2">Олена 
+                Смерека</div></td>
+            <td><div align="center"><font face="Arial" size="2">Олеся 
+                Рудько</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Ганна 
+                Кравцева</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Світлана 
+                Казакова</FONT></div></td>
+          </tr>
+          <tr> 
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/25.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/26.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/27.jpg"></div></td>
+            <td><br> <br> <div align="center"><img src="images/Almanache_6/28.jpg"></div></td>
+          </tr>
+          <tr class="Text"> 
+            <td><div align="center"><font face="Arial" size="2">Олександра 
+                Стратійчук</div></td>
+            <td><div align="center"><font face="Arial" size="2">Анна 
+                Краснощок</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Ірина 
+                Застанкевич</FONT></div></td>
+            <td><div align="center"><font face="Arial" size="2">Інна 
+                Стефанець</FONT></div></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><br> <br> <div align="center"><img src="images/Almanache_6/29.jpg"></div></td>
+          </tr>
+          <tr> 
+            <td colspan="4" class="Text"><div align="center"><font face="Arial" size="2">Андрій 
+                Ляхов</div></td>
+          </tr>
+        </table>
+</BODY>
+</HTML>
+<!--#include virtual="../main/bottom.shtml"--> 

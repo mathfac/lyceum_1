@@ -1,0 +1,79 @@
+::Русский (Windows)::rus_win
+Ни один пункт не был выбран!
+Вернуться
+Ошибка приема данных. повторите попытку.
+Спасибо, Ваш голос был принят.
+Всего
+Закрыть окно
+Ваш голос не был принят, т.к.<br>Вы уже голосовали!
+:end
+
+::тХУУЛЙК (KOI8-R)::rus_koi
+оЙ ПДЙО РХОЛФ ОЕ ВЩМ ЧЩВТБО!
+чЕТОХФШУС
+пЫЙВЛБ РТЙЕНБ ДБООЩИ. РПЧФПТЙФЕ РПРЩФЛХ.
+уРБУЙВП, чБЫ ЗПМПУ ВЩМ РТЙОСФ.
+чУЕЗП
+ъБЛТЩФШ ПЛОП
+чБЫ ЗПМПУ ОЕ ВЩМ РТЙОСФ, Ф.Л.<br>чЩ ХЦЕ ЗПМПУПЧБМЙ!
+:end
+
+::Russkiy (Latinitsa)::rus_lat
+Ni odin punkt ne bil vibran!
+Vernut'sya
+Oshibka priema dannih. Povtorite popitku.
+Spasibo, Vash golos bil prinyat.
+Vsego
+Zakrit' okno
+Vash golos ne bil prinyat, t.k.<br>Vi uje golosovali!
+:end
+
+::English::eng
+None of the options was chosen!
+Go back
+Error of receipt data, please retry.
+Thank you, you vote was accepted!
+Total
+Close the window
+Your vote was not accepted as<br>you had already voted!
+:end
+
+::Українська::ukr
+Жодного пункту не було вибрано!
+Повернутися
+Помилка отримання даних. спробуйте ще раз.
+Дякуємо. Ваш голос врахований.
+Всього
+Закрити вiкно
+Ваш голос не врахований, оскiльки<br>Ви вже голосували!
+:end
+
+::Francais::fra
+Aucun point n'etait pas choisi!
+Revenir
+L'erreur de l'accueil des donnees. Repetez la tentative.
+Merci, votre voix etait acceptee.
+Au total
+Fermer la fenetre
+Votre voix n'etait pas acceptee, car.<br>Vous votiez deja!
+:end
+
+::Espanol::esp
+No esta elegido ningun punto!
+Volber
+Fallo de transmision de los datos.Proba lo mas tarde.
+La votacion es valida! Gracias.
+En total
+Cerrar la ventana.
+La votacion no es valida!<br>Ya has votado!
+:end
+
+::Nippongo::jap
+Aitemu ha erunukanaimashita!
+Modorimashite
+Deeta ayamachi. Mou tameshite.
+Ketsugi ha kazoerimashita, arigatou gozaimashita.
+Zengaku
+Mado wo hikerimashite
+Tameshimasen.
+:end

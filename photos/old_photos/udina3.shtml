@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+    <LINK href="../../style.css" rel="stylesheet" type="text/css">
+	<TITLE>Директор лицея!</TITLE>
+</HEAD>
+<BODY><!--#include virtual="../../main/top.shtml"-->
+
+
+<CENTER>
+<IMG SRC="udina/gastrol.jpg" WIDTH=2462 HEIGHT=1812 BORDER=0  ALT="">
+
+<BR>
+<BR>
+          <SPAN class="Text">Третья фотография выпускная моего 11-В класса (физмат) 
+          - 1995 год. Если что, то я стою в первом ряду вторая слева, рядом с 
+          Еленой Геннадьевной. Настя. <BR>
+          </SPAN><BR>
+
+<table>
+<tr>
+	<td align="right" width="10%">
+<A HREF="udina2.shtml"><IMG SRC="../../images/arrow_left.gif"  ALT="назад" border="0"></A>
+</td>
+	<td width="80%" align="center"><A href="index.shtml" class="Text">Cборная Старых Фотографий</A></td>
+	<td align="left" width="10%"></td>
+</tr>
+</table>
+</CENTER>
+
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</HTML>

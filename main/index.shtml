@@ -1,0 +1,67 @@
+<HTML>
+<HEAD>
+<META NAME="keywords" CONTENT="Chernovtsy,Chernivtsi,lyceum,graduate,club,news,contacts,address, Hoyenko,Sakhatsky,Черновцы,лицей,выпускник,клуб,новости,адреса,Скалкин,Гоенко, Skalkin,Сахацкий">
+<TITLE>Ліцей №1, Чернівці (Головна)</TITLE>
+<LINK REL="STYLESHEET" TYPE="text/css" HREF="../style.css">
+<STYLE type="text/css">
+</STYLE>
+</HEAD>
+<BODY>
+<!--#include virtual="/main/top.shtml"-->
+<Table border="0" width="100%">
+<tr valign='top'>
+ <td width="19%" > <TABLE width="100%"  border="1" bordercolor="#0099FF" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                    <TR> 
+                   
+                      <TD><center class="MarkerName">
+					    Гостям:</center></td></tr>
+					  <tr><td>
+						&nbsp;<a href="contacts/registration.shtml" class="slave_menu">Реєстрація</a><br> 
+                        &nbsp;<a href="../rubricks/oficioz/" class="slave_menu">Про ліцей</a><br> 
+                        &nbsp;<a href="../main/subscribe.shtml" class="slave_menu">Підписка</a><br> 
+						&nbsp;<a href="/map/" class="slave_menu">Карта сайту</a><br> 
+						&nbsp;<a href="javascript:void(0)" onclick="window.open('http://pub34.bravenet.com/guestmap/show.php?usernum=2897447810&lightmap=0&icons=0&&entrylist=0&zoom=0&welcome=1','bnetguestmap','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=720,height=470,top=110,left=110')" class="slave_menu">Карта 
+                        ліцеїстів</a> <br>
+						&nbsp;<a href="/rubricks/history/" class="slave_menu">Історія сайту</a><br>
+                        &nbsp;<a href="http://www.zakutok.com/Lycey1.html" class="slave_menu"  target="_blank">Форум</a>
+						</TD>
+
+                    </TR>                                
+                  </TABLE>
+</td>
+ <td width="45%" >
+ <br>
+ 
+ <center><b>Шановні випускники Ліцею #1!</b></center><br>
+	
+	Для історії ліцею, просимо Вас надіслати <a href='mailto:gun777@ukr.net'>нам</a> Вашу фотографію, повне ім’я, де і ким Ви працюєте. Вся інформація згодом буде розміщена на сайті також.<p class='author'>З повагою М. Тіщенко&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+</td>
+
+ <td width="25%" > <TABLE width="100%"  border="1" bordercolor="#0099FF" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                    <TR> 
+                   
+                      <TD>
+
+<!--#include virtual="/cgi-bin/voting/tigvote.cgi?action=form&file=1"-->
+					  <center>
+<hr width=90%>
+<A HREF='/cgi-bin/voting/tigvote.cgi?action=result&file=1' class="slave_menu">результати голосування</a>
+					  </center>
+                       </TD>
+                    </TR>                                
+                  </TABLE>
+</td>
+               
+</tr>
+</table>
+
+
+<h3 align=center>Нові Надходження:</h3>
+      <iframe align=center src="\main\obl_list.shtml" frameborder="0" height="190" width="98%"> 
+      </iframe>
+<!--#include virtual="/cgi-bin/counter/counter.cgi"-->
+<!--#include virtual="/main/bottom.shtml"-->  
+</BODY>
+</HTML>
+

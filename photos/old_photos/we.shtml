@@ -1,0 +1,29 @@
+<HTML>
+<HEAD>
+	<TITLE>5-ый выпуск лицея. Групповое фото.</TITLE>
+	    <LINK href="../../style.css" rel="stylesheet" type="text/css">
+</HEAD>
+<BODY><!--#include virtual="../../main/top.shtml"-->
+
+
+<CENTER>
+<IMG SRC="images/we.jpg" WIDTH=500 HEIGHT=352 BORDER=0  ALT="Мы после сауны. 1999 год, на следующий день после встречи выпускников.">
+
+<BR>
+<BR>
+
+<table>
+<tr>
+	<td align="right" width="10%">
+<A HREF="teachers.shtml"><IMG SRC="../../images/arrow_left.gif"  ALT="назад" border="0"></A>
+</td>
+    <td width="80%" align="center" class="Text"><A href="index.shtml">Cборная Старых Фотографий</A></td>
+	<td align="left" width="10%">
+<A HREF="udina1.shtml"><IMG SRC="../../images/arrow_right.gif"  ALT="назад" border="0"></A>	
+	</td>
+</tr>
+</table>
+</CENTER>
+
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</HTML>

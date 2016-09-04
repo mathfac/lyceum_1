@@ -1,0 +1,31 @@
+<html>
+
+<head>
+
+<title>Поездка админов в Крым</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+
+<BODY><!--#include virtual="../../main/top.shtml"-->
+        <center><h2>Поездка админов в Крым</h2></center>
+        <BR>
+
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center"><img src="images/_kr_01.jpg" alt="4541 bytes"
+    width="229" height="151"><p>Наши в Коктебеле !</td>
+    <td width="50%" align="center"><img src="images/_kr_02.jpg" alt="6354 bytes"
+    width="230" height="151"><p>что-то тут нечисто ...</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="images/_kr_03.jpg" alt="9046 bytes"
+    width="228" height="151"><p>дикий пляж ;)</td>
+    <td width="50%" align="center"><img src="images/_kr_04.jpg" alt="7186 bytes"
+    width="225" height="151"><p>после дня рождения (немножко не в тему)</td>
+  </tr>
+</table>
+<br>
+
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</html>

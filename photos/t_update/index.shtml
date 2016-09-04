@@ -1,0 +1,33 @@
+<html>
+
+<head>
+
+<title>Оновлені фотографії вчителів</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+
+<BODY><!--#include virtual="../../main/top.shtml"-->
+<img Src='images/table.jpg' align='right'>
+<center><h2>Оновлені фотографії вчителів</h2></center>
+<p class='preambula'>Подивимося, хто тут у нас у метод. кабінеті...</p>
+<ul>
+<LI><A href="1.shtml">Березовський Андрій Миколайович (фізика)</a>
+<LI><A href="2.shtml">Деркач Надія Йосипівна (інформатика)</a>
+<LI><A href="3.shtml">Головко Станіслав Петрович (директор) & Старовойт Петро Сергійович (завуч)</a>
+<LI><A href="4.shtml">Тетяна Петрівна (інформатика)</a>
+<LI><A href="5.shtml">Клим’юк Іван Іларіонович (економіка)</a>
+<LI><A href="6.shtml">Ліна Миколаївна (математика)</a>
+<LI><A href="7.shtml">Марусяк Надія Степанівна (економіка)</a>
+<LI><A href="8.shtml">Майданик Олена Генадівна (історія)</a>
+<LI><A href="9.shtml">Оксана Георгівна (хімія)</a>
+<LI><A href="10.shtml">Пшенічка Пауль Францович (фізика)</a>
+<LI><A href="11.shtml">Яковець Руслана Петрівна (укр. літ.)</a>
+<LI><A href="12.shtml">Тіщенко Михайло Григорович & Коробова Людмила Григорівна</a>
+<LI><A href="13.shtml">Юрушкевич Валерій Степанович (зар. літ.)</a>
+</ul>
+  <hr>
+  <P class="abzac">Фотографії були зняті цифровим фотоапаратом Olympus Camedia C3030 Zoom, у різні моменти, на протязі півроку.</p>
+<P class="author"><A HREF="mailto:gun777@ukr.net">Максимець 
+    Олександр</font></A></P>
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</html>

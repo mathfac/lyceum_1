@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+
+
+<TITLE></TITLE>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../style.css">
+</HEAD>
+
+<BODY>
+<!--#include virtual="../main/top.shtml"--> 
+
+<h2 align="center">Альма-мама тройной очистки</h2>
+
+<div align="center"> <img src="images/Vodka.jpg" alt="Размер - 92 K"> </div>
+<!--#include virtual="../main/bottom.shtml"--> 
+</BODY>
+</HTML>

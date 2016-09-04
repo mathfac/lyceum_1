@@ -1,0 +1,22 @@
+<HTML>
+<HEAD>
+
+
+<TITLE>Фото директора лицея</TITLE>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../style.css">
+</HEAD>
+
+<BODY>
+
+<!--#include virtual="../main/top.shtml"--> 
+
+<H2 align="center">Наше дело предложить, а Ваше поиздеваться</H2>
+
+<div align="center"> <img src="images/Director.jpg"> </div>
+            <P><br>
+              <br>
+            </P>
+            <P class="abzac"> <A href="bull.shtml"><img border="0" hspace='20' src="images/bull.gif" align="middle">Здесь</A> более развеселительная картина... </P>
+            <!--#include virtual="../main/bottom.shtml"--> 
+</BODY>
+</HTML>

@@ -1,0 +1,45 @@
+
+<script language="JavaScript"><!--
+ function TopMenuGoTo() {
+  if (frmTopMenuGoto.D1.value!="")
+  window.location.href=frmTopMenuGoto.D1.value;
+ }
+// --></script>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+ <td width="77"><img src="/images/lyceum.gif" alt="Лицей" width="100" height="106"></td>
+ <td align="center">
+        <!-- BannerBank. ИнтерРеклама -->
+        <script>
+        // <!--
+        var userid = 52972;
+        var page = 1;
+        var rndnum = Math.round(Math.random() * 10000);
+        document.write("<center><A HREF='http://ad.ir.ru/bb.cgi?cmd=go&pubid=" + userid + "&pg=" + page + "&vbn=10001&nocache=" + rndnum + "' target='_top'>");
+        document.write("<IMG SRC='http://ad.ir.ru/bb.cgi?cmd=ad&pubid=" + userid + "&pg=" + page + "&vbn=10001&nocache=" + rndnum + "' width=468 height=60 Alt='BannerBank Advertizing' border=0></A><BR></center>");
+        // -->
+        </script>
+        <!-- BannerBank. ИнтерРеклама -->
+<br>		
+<form name="frmTopMenuGoto">
+  Перейти : 
+    <select name="D1" size="1" onChange="TopMenuGoTo()">
+      <option value="">Выберите нужную страницу ...</option>
+      <option value="/main.shtml">Главная страница</option>
+      <option value="/news.shtml">Новости</option>
+      <option value="/contacts.shtml">Контакты</option>
+      <option value="http://www.guestbook.ru/book.cgi?user=lyceum1&amp;action=show">Гостевая книга</option>
+      <option value="/rest.shtml">Досуг</option>
+      <option value="/cross.shtml">Перекресток</option>
+      <option value="/job.shtml">Работа</option>
+      <option value="/lyrics.shtml">Уголок меломана</option>
+      <option value="/lyceum.shtml">Лицей - официоз</option>
+      <option value="/photo.shtml">Наши фотки</option>
+      <option value="/voting.shtml">Голосования</option>
+      <option value="/index.htm">Страница с фреймами</option>
+      <option value="http://pub12.bravenet.com/forum/show.php?usernum=981880309&cpv=1">Форум</option>
+    </select>
+  </form>
+</td>
+</tr>
+</table>

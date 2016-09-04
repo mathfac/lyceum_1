@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Відпочинок</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+<body>
+<!--#include virtual="../../main/top.shtml"-->
+<h1 align="center">Відпочинок</h1>
+
+<p class="preambula">У цьому розділі описуються історії та поради, пов’язані з відпочинком. Адже люди, які багато працюють, мають вміти якісно, швидко і головне продуктивно відпочивати!</p>
+
+<ul>
+ <LI><A HREF="../../news/goverla.shtml">Підкорення Говерли</A> – похід 11-Б на початку літа 2003 року<BR> 
+ <li><a href="places.shtml">Лакомі місця</a> – туди, куди можна піти гарно і весело відпочити.</li>
+ <li><a href="../../news/rest_vyzhenka.shtml">Похід ліцею до Віженки</a> – випито не мало.</li>
+</ul>
+<br>
+<br>
+<br>
+<!--#include virtual="../../main/bottom.shtml"-->
+</body>
+</html>

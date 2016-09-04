@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+
+<link REL="STYLESHEET" TYPE="text/css" HREF="../style.css">
+</HEAD>
+
+<BODY bgcolor="#FFFFFF">
+<ul>
+    <!--#include virtual="list.shtml"--> 
+</ul>
+</BODY>
+</HTML>

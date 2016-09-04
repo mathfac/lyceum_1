@@ -1,0 +1,31 @@
+<html>
+
+<head>
+
+<title>Тіщенко Михайло Григорович & Коробова Людмила Григорівна</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+
+<BODY><!--#include virtual="../../main/top.shtml"-->
+<center>
+<IMG SRC="images/Tishenko_&_Korobova.JPG" ALT="Тіщенко Михайло Григорович & Коробова Людмила Григорівна" border="0"><br><br>
+Тіщенко Михайло Григорович & Коробова Людмила Григорівна
+
+<table>
+<tr>
+    <td align="right" width="10%"><A HREF="
+	11.shtml
+	"
+	><IMG SRC="../../images/arrow_left.gif"  ALT="назад" width="33" height="35" border="0"></A></td>
+
+    <td width="80%" align="center" class="Text"><A href="index.shtml">Оновлені фотографії вчителів</A></td>
+	
+	<td align="left" width="10%"><A HREF="
+	13.shtml
+	"
+	><IMG SRC="../../images/arrow_right.gif"  ALT="вперед" border="0"></A></td>
+</tr>
+</table>
+</center>
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</html>

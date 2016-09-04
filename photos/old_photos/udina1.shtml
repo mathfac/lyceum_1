@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+	<TITLE>Чунгачкук - Великий Змей</TITLE>
+    <LINK href="../../style.css" rel="stylesheet" type="text/css">
+</HEAD>
+<BODY><!--#include virtual="../../main/top.shtml"-->
+
+
+<CENTER>
+          <IMG SRC="udina/chunga.jpg" WIDTH=1342 HEIGHT=965 BORDER=0> <SPAN class="Text">Чунгачкук 
+          - Великий Змей</SPAN> <BR>
+<BR>
+
+<table>
+<tr>
+	<td align="right" width="10%">
+<A HREF="we.shtml"><IMG SRC="../../images/arrow_left.gif"  ALT="назад" border="0"></A>
+</td>
+    <td width="80%" align="center" class="Text"><A href="index.shtml">Cборная Старых Фотографий</A></td>
+	<td align="left" width="10%"><A HREF="udina2.shtml"><IMG SRC="../../images/arrow_right.gif"  ALT="вперед" border="0"></A></td>
+</tr>
+</table>
+</CENTER>
+
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</HTML>

@@ -1,0 +1,32 @@
+<html>
+
+<head>
+<title>Куток меломана</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+
+<body>
+<!--#include virtual="../../main/top.shtml"-->
+<h1 align="center">Куток меломана</h1>
+<p class="preambula">Якщо Ви хочете добавити сюди тексти якоїсь
+групи/виконавця, будь-ласка присилайте їх <a
+href="mailto:<!--#include virtual="../../main/e-mail.txt"-->?Subject=lyrics">сюди</a></p>
+
+<p class="abzac">
+<a href="offspring/american.shtml"><img src="offspring/americana.jpg" width="170" height="170"  HSPACE=15 VSpace=5 BORDER=1 ALIGN="MIDDLE"    alt="Americana">The Offspring - Americana (p)1998</a><br>
+    Авторський переклад ;-)) (с) 1999 <a href="mailto:skalkin@usa.net">Andy
+    Skalkin</a><br>
+    (при &quot;наїжджані&quot; мишки на <b>підсвічені</b>
+    слова в рядку стану браузера з’явиться
+    переклад цього слова... не претендуючий на
+    правильність)
+
+
+
+<p class="abzac"><a href="rem/up.shtml"><IMG SRC="rem/rem.jpg" WIDTH=170 HEIGHT=170 HSPACE=15 VSpace=5 BORDER=1  ALIGN="MIDDLE" ALT="R.E.M.">R.E.M. - up</a></p>
+
+<p class="abzac"><a href="amorphis/winter_day.shtml"><IMG SRC="amorphis/images/black_winter_day.jpg" WIDTH=170 HEIGHT=170 HSPACE=15 VSpace=5 BORDER=1  ALIGN="MIddle" ALT="Amorphis">Amorphis – Balck Winter Day</a> <br>
+Прислано Сергієм Полем</p>
+<!--#include virtual="../../main/bottom.shtml"-->
+</body>
+</html>

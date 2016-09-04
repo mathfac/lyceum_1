@@ -1,0 +1,149 @@
+<html>
+
+<head>
+<title>New Year</title>
+<bgsound SRC="always.mid" loop="-1">
+<script LANGUAGE="JavaScript">
+//added to original code
+<!--- hide script from old browsers
+function WinOpen() 
+   {
+   alert('\nPage will load to full screen.\n\nUse View/Document Source from menu bar to view source.\n\nClose new window to return to this page. ');
+   window.open("js-bann1.shtml","DisplayWindow","menubar=yes");
+   window.open("js-bann1.shtml","DisplayWindow","menubar=yes");   // double for Macs
+   }
+//cease hiding-->
+</script>
+<script LANGUAGE="JAVASCRIPT">
+// Declare all Local Variables Here
+Size = 40; 
+Pos=50;
+Speed=0.1;
+Message="Лучше скажи мало, но скажи хорошо.             Присылайте свои поздравления!              Эту страничку подготовил Сергей Драб.          Поздравляем Всех Всех Всех с Новым 2000 годом!                     Такими мы были в этом тысячелетии, какими мы будем в будущем?";
+
+
+function Bouncer()
+   {
+   Dir2==2 ? Pos2-=Vel2 : Pos2+=Vel2;
+   if (Pos2 < 1)
+      {
+      Dir2=1;
+      Pos2=1;
+      }
+   if (Pos2 > Size2)
+      {
+      Dir2=2;
+      Pos2=Size2;
+      }
+   Space2 = "";
+}
+//-----------------------
+function Update() 
+   {
+   Spaces = "";
+   for (count=0; count<Pos; count++) 
+      {
+      Spaces+= " ";
+      }
+   if (Pos < 1) 
+      {
+      document.PANEL.Bar.value = Message.substring(Math.abs(Pos), Message.length);
+      if (Pos+Message.length < 1)
+         {Pos = Size;}
+      } 
+   else 
+      {document.PANEL.Bar.value = Spaces + Message;}
+   Pos-=Speed;
+   setTimeout('Update();', 15);
+   }
+
+function Update1() 
+   {
+   Spaces1 = "";
+   for (count=0; count<Pos1; count++)
+      {
+      Spaces1+= " ";
+      }
+    }
+//-----------------------
+</script>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../../style.css">
+</head>
+
+<body ONLOAD="setTimeout('Update()',10)">
+<!--#include virtual="../../../main/top.shtml"-->
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0" background="fon.gif">
+  <tr>
+    <td width="12%"><img src="q4.gif" alt="q4.gif (2897 bytes)" WIDTH="73" HEIGHT="73"></td>
+    <td width="78%"><p align="center"><img src="logo1.gif" alt="logo1.gif (26060 bytes)"
+    WIDTH="430" HEIGHT="53"></td>
+    <td width="11%"><img src="q4_.gif" alt="q4_.gif (2311 bytes)" WIDTH="73" HEIGHT="73"></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0" background="fon.gif">
+  <tr>
+    <td width="19%"><img src="f_drab.gif" alt="drab1.gif (4597 bytes)" WIDTH="88" HEIGHT="133"></td>
+    <td width="19%"><font SIZE="-1" COLOR="#000080">...Друзья! Такое бывает
+    раз в жизни да и то не у каждого. Так пусть это
+    будет незабываемо!</font></td>
+    <td width="25%" rowspan="4"><p align="center"><img src="elka2.gif" width="197"
+    height="265" alt="elka2.gif (12918 bytes)"></td>
+    <td width="19%"><img src="f_goen.gif" alt="foto.gif (3974 bytes)" WIDTH="84" HEIGHT="130"></td>
+    <td width="18%"><font SIZE="-1" COLOR="#000080">Когда я был совсем
+    маленький я не верил, что когда-то буду
+    праздновать Новый Год в 2000 году. Похоже, моя мечта
+    детства сбывается. Так выпьем же за исполнение
+    мечт! :-) </font></td>
+  </tr>
+  <tr>
+    <td width="19%"></td>
+    <td width="19%"><img src="f_zhih.gif" alt="foto_val.gif (4834 bytes)" WIDTH="80"
+    HEIGHT="134"></td>
+    <td width="19%"></td>
+    <td width="18%"><img src="f_devya.gif" alt="f_devya.gif (5167 bytes)" WIDTH="80"
+    HEIGHT="133"></td>
+  </tr>
+  <tr>
+    <td width="19%"><img src="f_skalk.gif" alt="f_skalk.gif (4876 bytes)" WIDTH="84"
+    HEIGHT="126"></td>
+    <td width="19%"><p align="center"><font size="-1" color="#000080">Говорят, как
+    проведешь Новый Год, таким он и будет. Наверное,
+    это относится и новому тысячелетию ... Я верю, что
+    все мы незабываемо проведем этот Новый Год !!!</font></td>
+    <td width="19%"><img src="f_sah.gif" alt="f_sah.gif (5000 bytes)" WIDTH="82" HEIGHT="123"></td>
+    <td width="18%"><p align="center"><font SIZE="-1" COLOR="#000080">Главное -
+    уметь радоваться каждой новой минуте и помнить,
+    что жизнь начинается заново каждый новый день, не
+    говоря уже о новом годе!</font></td>
+  </tr>
+  <tr>
+    <td width="19%"><font size="-1" color="#000080">Влад поздравляет всех
+    с Новым, 2000-м Годом.</font></td>
+    <td width="19%"><img src="f_gonch.gif" alt="f_gonch.gif (4882 bytes)" WIDTH="87"
+    HEIGHT="130"></td>
+    <td width="19%"></td>
+    <td width="18%"><img src="f_hod.gif" alt="f_hod.gif (5682 bytes)" WIDTH="89" HEIGHT="129"></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0" background="fon.gif">
+  <tr>
+    <td width="100%"><p align="center"><img src="guy-fat.gif" alt="guy-fat.gif (5600 bytes)"
+    WIDTH="30" HEIGHT="30">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="guy-fat.gif" alt="guy-fat.gif (5600 bytes)" WIDTH="30" HEIGHT="30"></td>
+  </tr>
+  <tr>
+    <td width="100%"><form NAME="PANEL">
+      <div align="center"><center><p><input Size="62" Name="Bar"
+      Value="****************************" style="border: 1px solid rgb(255,255,255)"> </p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+<!--#include virtual="../../../main/bottom.shtml"-->
+</body>
+</html>

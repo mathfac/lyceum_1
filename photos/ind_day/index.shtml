@@ -1,0 +1,39 @@
+<html>
+
+<head>
+<title>День Независимости - 1996</title>
+
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+<script language="JavaScript" src="photolist.js">
+</script>
+</head>
+
+<body>
+<!--#include virtual="../../main/top.shtml"-->
+
+<form name="frmPanel">
+<table width="100%">
+<tr>
+ <td align="center" width="50%"><input type="button" name="btnPrev" onClick="prev()"> </td>
+ <td align="center" width="50%"><input type="button" name="btnNext" onClick="next()"> </td>
+</tr>
+<tr>
+ <td colspan="2" align="center">
+     <input type="button" style="font-size:16pt" name="btnCur" onClick="alert('Понравилось, да-а ?')">
+ </td>
+</tr>
+</table>
+</form>
+<script>
+var sImages = new arrayCreator('images/ind_day1.jpg','images/ind_day2.jpg','images/ind_day3.jpg','images/ind_day4.jpg','images/ind_day5.jpg','images/ind_day6.jpg','images/ind_day7.jpg','images/ind_day8.jpg','images/ind_day9.jpg');
+var sDesc = new arrayCreator('Танцы на диване','Валера и Наташа Бойко','веселье в разгаре','ночь перед днем Х','Валера и Леся','Дюша (это я) и Оксана Гречко','Рома и Наташа','квартет','"грязные" танцы'); 
+var cur=0, maxImg=sImages.length;
+imgCur  = new Image();imgCur.src=sImages[0];
+imgNext = new Image();imgNext.src=sImages[nextPos()];
+imgPrev = new Image();imgPrev.src=sImages[prevPos()];
+_show();
+</script>
+<img src="images/ind_day1.jpg" name="imgCur" align="center">
+<!--#include virtual="../../main/bottom.shtml"-->
+</body>
+</html>

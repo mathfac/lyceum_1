@@ -1,0 +1,205 @@
+<HTML>
+<HEAD>
+<TITLE>Карта сайту</TITLE>
+<LINK href="../style.css" rel="stylesheet" type="text/css">
+<META http-equiv="Content-Type" content="text/html;"></HEAD>
+
+<BODY>
+<!--#include virtual="../main/top.shtml"-->
+<H2 align="center">Карта сайту</H2>
+
+<br>
+<br>
+<br>
+
+<TABLE width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <TR> 
+    <TD><CENTER>
+        <A href="../main/" class="branches">Головна</A>
+</CENTER></TD>
+  </TR>
+  <TR><TD><CENTER>
+        <IMG src="images/line_v.gif"></CENTER></TD>
+  </TR>
+  <TR> 
+    <TD height="3">
+			<TABLE width="100%" height="3"  border="0" cellpadding="0" cellspacing="0">
+        <TR> 
+          <TD width="8%" height="3"></TD>
+          <TD width="9%" height="3" bgcolor="#0099FF"></TD>
+          <TD width="17%" height="3" bgcolor="#0099FF"><CENTER>
+            </CENTER></TD>
+          <TD width="16%" height="3" bgcolor="#0099FF"><CENTER>
+            </CENTER></TD>
+          <TD width="16%" height="3" bgcolor="#0099FF"><CENTER>
+            </CENTER></TD>
+          <TD width="17%" height="3" bgcolor="#0099FF"><CENTER>
+            </CENTER></TD>
+          <TD width="9%" height="3" bgcolor="#0099FF"><CENTER>
+            </CENTER></TD>
+          <TD width="8%"></TD>
+        </TR>
+      </TABLE>
+	</TD>
+  </TR>
+  <TR> 
+    <TD>
+		<TABLE width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <TR> 
+          <TD width="17%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="17%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="16%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="16%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="17%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="17%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+        </TR>
+      </TABLE>	
+	</TD>
+  </TR>
+  <TR> 
+    <TD> 
+	<TABLE width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <TR> 
+          <TD width="17%"><CENTER>
+              <A href="/news/" class=branches>&nbsp;Новини</A></CENTER></TD>
+          <TD width="17%"><CENTER>
+              <A href="/cross/" class=branches>&nbsp;Перехрестя</A> 
+            </CENTER></TD>
+          <TD width="16%"><CENTER>
+              <A href="/photos/" class=branches>&nbsp;Фотки</A> </CENTER></TD>
+          <TD width="16%"><CENTER>
+              <A href="/guest_book/" class=branches>&nbsp;Гестбук</A> 
+            </CENTER></TD>
+          <TD width="17%"><CENTER>
+              <A href="/contacts/" class=branches>&nbsp;Зв’зки</A> 
+            </CENTER></TD>
+          <TD width="17%"><CENTER>
+              <A href="/rubricks/" class=branches>&nbsp;Рубрики</A> 
+            </CENTER></TD>
+        </TR>
+      </TABLE>
+	  
+	  </TD>
+  </TR>
+  <TR> 
+    <TD>
+		<TABLE width="100%" height="15"  border="0" cellpadding="0" cellspacing="0">
+        <TR> 
+          <TD width="16%"></TD>
+          <TD width="17%"></TD>
+          <TD width="16%"></TD>
+          <TD width="17%"></TD>
+          <TD width="17%"><CENTER>
+              <IMG src="images/arrow_down.gif"> 
+            </CENTER></TD>
+		  <TD width="2%"></TD>
+          <TD width="15%" align="center"><IMG src="images/line_v.gif"></TD>		  
+
+        </TR>
+      </TABLE>
+	</TD>
+  </TR>
+	
+	</TD>
+  </TR>
+  <TR>
+    <TD height="15">
+		<TABLE width="100%" height="15"  border="0" cellpadding="0" cellspacing="0">
+        <TR> 
+          <TD width="17%"></TD>
+          <TD width="17%"></TD>
+          <TD width="16%"></TD>
+          <TD width="16%"></TD>
+          <TD width="17%"><CENTER>
+              <A href="../contacts/links/" class="branches">Лінки</A>
+</CENTER></TD>
+		  <TD width="2%"></TD>
+          <TD width="15%" align="center"><IMG src="images/line_v.gif"></TD>
+        </TR>
+      </TABLE>
+	</TD>
+  </TR>
+  <TR>
+    <TD height="15">
+		<TABLE width="100%" height="15"  border="0" cellpadding="0" cellspacing="0">
+        <TR> 
+          <TD width="17%"></TD>
+          <TD width="17%"></TD>
+          <TD width="16%"></TD>
+          <TD width="16%"></TD>
+          <TD width="17%"></TD>
+		  <TD width="2%"></TD>
+          <TD width="15%" align="center"><IMG src="images/line_v.gif"></TD>
+        </TR>
+      </TABLE>
+	</TD>
+  </TR>  
+    <TR>
+     <TD height="3">
+		<TABLE width="100%"  border="0" height="3" cellspacing="0" cellpadding="0">
+        <TR> 
+          <TD width="7%"></TD>
+		  <TD width="8%" bgcolor="#0099FF"></TD>
+          <TD width="14%" bgcolor="#0099FF"></TD>
+          <TD width="14%" bgcolor="#0099FF"></TD>
+          <TD width="14%" bgcolor="#0099FF"></TD>
+          <TD width="14%" bgcolor="#0099FF"></TD>
+          <TD width="14%" bgcolor="#0099FF"></TD>
+          <TD width="8%" bgcolor="#0099FF"></TD>
+		  <TD width="7%"></TD>		  
+        </TR>
+      </TABLE></TD>
+  </TR>
+  <TR>
+    <TD>
+		<TABLE width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <TR> 
+          <TD width="15%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="14%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="14%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="14%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="14%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="14%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>
+          <TD width="15%"><CENTER><IMG src="images/arrow_down.gif"></CENTER></TD>		  
+        </TR>
+      </TABLE>	
+	</TD>
+  </TR>  
+  <TR>
+    <TD>
+		<TABLE width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <TR> 
+          <TD width="15%"><CENTER>
+              <A href="../rubricks/oficioz/" class="branches">Офіціоз</A>
+</CENTER></TD>
+          <TD width="14%"><CENTER>
+              <A href="../rubricks/forum/" class="branches">Форум</A>
+</CENTER></TD>
+          <TD width="14%"><CENTER>
+              <A href="../rubricks/lyrics/" class="branches">Куток меломана</A>
+</CENTER></TD>
+          <TD width="14%"><CENTER>
+              <A href="../rubricks/job/" class="branches">Робота</A>
+</CENTER></TD>
+          <TD width="14%"><CENTER>
+              <A href="../rubricks/rest/" class="branches">Віпочинок</A>
+</CENTER></TD>
+          <TD width="14%"><CENTER>
+              <A href="../rubricks/history/" class="branches">Історія сайту</A>
+</CENTER></TD>
+          <TD width="15%"><CENTER>
+              <A href="../rubricks/voting/" class="branches">Голосування</A>
+</CENTER></TD>		  
+        </TR>
+      </TABLE>	
+	</TD>
+  </TR>
+</TABLE>
+
+<br>
+<br>
+<br>
+
+<!--#include virtual="../main/bottom.shtml"--> 
+</BODY>
+</HTML>

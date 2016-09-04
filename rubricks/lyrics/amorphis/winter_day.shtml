@@ -1,0 +1,37 @@
+<html>
+
+<head>
+<title>Amorphis – Black Winter Day</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../../style.css">
+</head>
+
+<body>
+<!--#include virtual="../../../main/top.shtml"-->
+<h2 align="center">Black Winter Day</h2>
+<div align='Left'>
+<img alt="Amorphis" border="0" src="images/black_winter_day.jpg" width="170" height="170">
+</div>
+<FONT size=+1>
+This is how the lucky feel<br>
+How the blessed think<br>
+Like daybreak in spring<br>
+The sun on a spring morning<br>
+<br>
+<br>
+But how do I feel<br>
+In my gloomy depths?<br>
+<br>
+<br>
+Like the flat brink of a cloud<br>
+Like a dark night in autumn<br>
+A black winter day<br>
+No, darker than that<br>
+Gloomier than an autumn night<br>
+</FONT>
+<br>
+<br>
+<br>
+<!--#include virtual="../../../main/bottom.shtml"-->
+</body>
+</html>
+

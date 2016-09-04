@@ -1,0 +1,28 @@
+<HTML>
+<HEAD>
+	<TITLE>5-ый выпуск лицея. Групповое фото.</TITLE>
+	<LINK href="../../style.css" rel="stylesheet" type="text/css">
+</HEAD>
+<BODY><!--#include virtual="../../main/top.shtml"-->
+
+
+<CENTER>
+<IMG SRC="images/kadenuk.gif" WIDTH=500 HEIGHT=321 BORDER=0  ALT="Ходик целует Юлю. А я (Сахар) смотрю - не понял.">
+
+<BR>
+<BR>
+
+
+
+<table>
+<tr>
+    <td align="right" width="10%"><A HREF="5gr.shtml"><IMG SRC="../../images/arrow_left.gif"  ALT="назад" width="33" height="35" border="0"></A></td>
+    <td width="80%" align="center" class="Text"><A href="index.shtml">Cборная Старых Фотографий</A></td>
+		<td align="left" width="10%"><A HREF="lastbell.shtml"><IMG SRC="../../images/arrow_right.gif"  ALT="вперед" border="0"></A></td>
+</tr>
+</table>
+
+</CENTER>
+
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</HTML>

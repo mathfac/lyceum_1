@@ -1,0 +1,44 @@
+<HEAD>
+		
+ 		<LINK href="../style.css" rel="stylesheet" type="text/css">
+	</HEAD>
+	
+	
+	</TD>
+          	<TD width="3%">&nbsp;</TD>
+        </TR>
+        <TR> 
+          <TD width="3%" height="30">&nbsp;</TD>
+          <TD height="30">&nbsp;</TD>
+          <TD width="3%" height="30">&nbsp;</TD>
+        </TR>
+
+		
+      </TABLE>
+	
+	  </TD>
+    <TD width="9" background="/main/images/ramka_right.gif" bgcolor="#FFFFFF"></TD>
+	<TD width="4"  bgcolor="#009CFF">&nbsp;</TD>
+  </TR>
+   <TR bgcolor="#FFFFFF"> 
+   <TD width="4" height="9"  bgcolor="#009CFF"></TD>
+    <TD width="9" height="9" ><IMG src="/main/images/corner_down_l.gif" width="9" height="9"></TD>
+    <TD width="100%" height="9" background="/main/images/ramka_down.gif"></TD>
+    <TD width="9" height="9"><IMG src="/main/images/corner_down_r.gif" width="9" height="9"></TD>
+    <TD width="4" height="9"  bgcolor="#009CFF"></TD>
+   </TR>  
+</TABLE>
+
+<TABLE width="100%" height="40"  border="0" cellpadding="0" cellspacing="0">
+  <TR> 
+   	<TD width="10"  bgcolor="#009CFF">&nbsp;</TD>
+	
+	<TD colspan="3" class="BottomText"><FONT color="#FFFFFF">Лічильник відвідувань <!--#include virtual="/cgi-bin/counter/countershow.cgi"-->. Відповідальний за вигляд сторінки <A href="mailto:%20gun777@.ukr.net">Максимець Олександр</A>. Copyright © 1999—2003. Електронка:&nbsp;<A href="mailto:%20lyceum_1@mail.ru">lyceum_1@mail.ru</A>. Подяка&nbsp;<A Href='http://www.cv.ukrtelecom.ua/'>Укртелекому</a>&nbsp;за&nbsp;хостінг.</FONT>
+	</TD>
+ 
+ 	<TD width="10"  bgcolor="#009CFF">&nbsp;</TD>
+  </TR>
+</TABLE>
+</BODY>
+
+</HTML>

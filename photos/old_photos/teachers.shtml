@@ -1,0 +1,25 @@
+<html>
+
+<head>
+
+<title>Лицей №1 - учителя</title>
+    <LINK href="../../style.css" rel="stylesheet" type="text/css">
+</head>
+
+<BODY><!--#include virtual="../../main/top.shtml"-->
+<CENTER>
+<p><img src="images/teachers.jpg" width="740" height="400" border="0"></p>
+
+<table>
+<tr>
+		<td align="right" width="10%">
+<A HREF="lastbell.shtml"><IMG SRC="../../../images/arrow_left.gif"  ALT="назад" border="0"></A></td>
+    <td width="80%" align="center" class="Text"><A href="index.shtml">Cборная Старых Фотографий</A></td>
+		<td align="left" width="10%">		
+		<A HREF="we.shtml"><IMG SRC="../../images/arrow_right.gif"  ALT="вперед" border="0"></A></td>
+</tr>
+</table>
+</CENTER>
+
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</html>

@@ -1,0 +1,28 @@
+<html>
+
+<head>
+
+<title>Юрушкевич Валерій Степанович (зар. літ.)</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+
+<BODY><!--#include virtual="../../main/top.shtml"-->
+<center>
+<IMG SRC="images/Yrishkevich.JPG" ALT="Юрушкевич Валерій Степанович (зар. літ.)" border="0"><br><br>
+Юрушкевич Валерій Степанович (зар. літ.)
+
+<table>
+<tr>
+    <td align="right" width="10%"><A HREF="
+	12.shtml
+	"
+	><IMG SRC="../../images/arrow_left.gif"  ALT="назад" width="33" height="35" border="0"></A></td>
+
+    <td width="80%" align="center" class="Text"><A href="index.shtml">Оновлені фотографії вчителів</A></td>
+	
+	<td align="left" width="10%"></td>
+</tr>
+</table>
+</center>
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</html>

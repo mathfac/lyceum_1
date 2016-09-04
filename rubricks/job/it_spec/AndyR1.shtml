@@ -1,0 +1,167 @@
+<html>
+
+<head>
+<title>Resume</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../../style.css">
+</head>
+
+<body>
+<!--#include virtual="../../../main/top.shtml"-->
+<h2 align=center>Resume</h2>
+<Center>
+
+
+<table>
+<tr>
+<td width="80%">
+</td>
+<td>
+<font SIZE="3"><b>
+<p ALIGN="left">Andrey Skalkin </b></font><br>
+6 Bogomoltsa, apt.5 <br>
+Chernovtsy 274001<br>
+Ukraine<br>
+tel. +380(03722)2-47-06 <br>
+<strong>askalkin@mail.ru<br>
+</strong></p>
+</td></tr>
+</table>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="624">
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP"><b>OBJECTIVE:</b> </td>
+    <td WIDTH="78%" VALIGN="TOP">A challenging position as Programmer Analyst within a
+    growth-oriented organization where my analytical and technical skills, extensive
+    experience and creativity might be utilized to their full potential</td>
+  </tr>
+</table>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="624">
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP"><b>QUALIFICATION:</b></td>
+    <td WIDTH="78%" VALIGN="TOP"><ul>
+      <li>Five years of extensive work experience in a various areas of systems analysis and
+        programming such as development Database applications in Client/Server architecture using
+        Delphi. </li>
+      <li>Strong basic for being able to manage and participate in all phases of the software
+        life-cycle from inception to installation and beyond. </li>
+      <li>Excellent analytical, mathematics skills and problem solving ability </li>
+      <li>Quick learner and efficient, work well under pressure and meet deadlines </li>
+      <li>Excellent ability to plan, organize and prioritize my work in a team environment or
+        unsupervised</li>
+    </ul>
+    </td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="622">
+  <tr>
+    <td VALIGN="TOP"><b>EDUCATION: </b></td>
+    <td VALIGN="TOP"><b>Master's Degree in Computer Science </b>Kiev, Ukraine<b> </b></td>
+  </tr>
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP"></td>
+    <td WIDTH="78%" VALIGN="TOP"><b>Delphi Certified Programmer </b></td>
+  </tr>
+</table>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="624">
+  <tr>
+    <td VALIGN="TOP" COLSPAN="2"><b>COMPUTER SKILLS:</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP">Hardware:</td>
+    <td WIDTH="78%" VALIGN="TOP">IBM PC and Compatibles</td>
+  </tr>
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP">Operating Systems</td>
+    <td WIDTH="78%" VALIGN="TOP">MS-DOS , Windows 3.11/95/98/NT, OS/2, Novell Netware 4</td>
+  </tr>
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP">Languages:</td>
+    <td WIDTH="78%" VALIGN="TOP">C / C++ , SQL, Visual Basic, Pascal , Assembler , Java, Java
+    Script, Delphi, PROLOG</td>
+  </tr>
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP">PC Database:</td>
+    <td WIDTH="78%" VALIGN="TOP">MS-Access, FoxPro, Paradox, JDBC</td>
+  </tr>
+  <tr>
+    <td VALIGN="MIDDLE">Software: </td>
+    <td VALIGN="MIDDLE">Word, Excel, 3DS, Front Page, Help Writer's Assistant</td>
+  </tr>
+</table>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="624">
+  <tr>
+    <td VALIGN="TOP" COLSPAN="2"><b>EXPERIENCE:</b> </td>
+  </tr>
+  <tr>
+    <td VALIGN="MIDDLE"></td>
+    <td VALIGN="MIDDLE"></td>
+  </tr>
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP">1993-present </td>
+    <td WIDTH="78%" VALIGN="TOP"><b>Senior Software Engineer, Medical University </b>Chernovtsy,
+    Ukraine<strong><p>Project : </strong>Complete system for testing medical students and
+    interns. The award winning system was adapted as a National standard for Ukrainian Medical
+    Universities and serving more than 11000 users<ul>
+      <li>Independently designed, developed and maintained whole project using Client/Server
+        relational database application </li>
+      <li>Implemented various statistical and operational reports </li>
+      <li>Developed several Delphi components </li>
+    </ul>
+    <strong><p>Environment : </strong>Windows 95/NT, Delphi 3, Paradox 7.0, IBM PC </td>
+  </tr>
+</table>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="624">
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP">1998-present</td>
+    <td WIDTH="78%" VALIGN="TOP"><b>Programmer Analyst, Vuldi Ltd </b>Kiev, Ukraine<b><p>Project
+    :</b> Developing business tools as part of upgrading existing system<b> <ul>
+      </b>
+      <li>Reengineered existing database structure (FoxPro, MS Access) </li>
+      <li>Designed and developed part of security system for validation complex business rules </li>
+      <li>Local network administration (about 50 computers). </li>
+      <li>Developed a number of Java applets for companie's web site</li>
+    </ul>
+    <b><p>Environment : </b>Windows 95/NT, Novell Netware 4, Visual C++, MS Access, Delphi 4,
+    FoxPro, IBM VisualAge for Java, IBM PC</td>
+  </tr>
+</table>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="624">
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP">1995-1997</td>
+    <td WIDTH="78%" VALIGN="TOP"><b>Programmer Analyst , Artema Plant </b>Kiev, Ukraine<strong><p>Project
+    : </strong>Developing complete package including maintenance of human resources,
+    production line, inventory and sales<ul>
+      <li>Designed, developed and provided support for financial and inventory system using MS
+        ACCESS. </li>
+      <li>Designed and developed logic, data structure and GUI including various reports. </li>
+    </ul>
+    <strong><p>Environment : </strong>Windows 3.x, 95, MS Access, Visual Basic, IBM PC</td>
+  </tr>
+</table>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="623">
+  <tr>
+    <td WIDTH="22%" VALIGN="TOP">1994-1995</td>
+    <td WIDTH="78%" VALIGN="TOP"><b>Software Developer, Institute of Foreign Economy </b>Kiev,
+    Ukraine<strong><p>Project : </strong>Ultimate solution for several Ukrainian economics
+    branches<ul>
+      <li>Designed and developed the Statistical Analysis System using Pascal, C/C++. </li>
+      <li>Performed workflow analysis and design documentation </li>
+      <li>Developed some system utilities using Assembler</li>
+    </ul>
+    <strong><p>Environment : </strong>MS DOS 6.22, Windows 3.x, Borland Pacal 7.0, Borland
+    C++, TASM, IBM PC</td>
+  </tr>
+</table>
+</Center>
+<!--#include virtual="../../../main/bottom.shtml"-->
+</body>
+</html>

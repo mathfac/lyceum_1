@@ -1,0 +1,32 @@
+<html>
+
+<head>
+
+<title><!--#include virtual="texts/11.txt"--></title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+
+<BODY><!--#include virtual="../../main/top.shtml"-->
+<center>
+<IMG SRC="images/11.jpg" ALT="<!--#include virtual="texts/11.txt"-->" border="0"><br><br>
+<!--#include virtual="texts/11.txt"-->
+
+<table>
+<tr>
+    <td align="right" width="10%"><A HREF="
+	10.shtml
+	"
+	><IMG SRC="../../images/arrow_left.gif"  ALT="назад"  border="0"></A></td>
+
+
+    <td width="80%" align="center" class="Text"><A href="index.shtml">Фотки з Посвяти 2003</A></td>
+	
+	<td align="left" width="10%"><A HREF="
+	12.shtml
+	"
+	><IMG SRC="../../images/arrow_right.gif"  ALT="вперед" border="0"></A></td>
+</tr>
+</table>
+</center>
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</html>

@@ -1,0 +1,28 @@
+<HTML>
+<HEAD>
+<TITLE>ERROR 404 - Document not Found</TITLE>
+<LINK href="/style.css" rel="stylesheet" type="text/css">
+</HEAD>
+
+<BODY bgcolor=White>
+<H2 align="center"><FONT color="#FF0000">Помилка 404. Документ не знайдено.</FONT></H2>
+<h3>
+<p align="center">Ви знаходитеся на території <a href='/'>сайту випускників 
+  Чернівецького міського ліцею №1</a>. Сторінки, на адресу якої Ви зайшли, не 
+  існує. Вона може бути відсутня по двох причинах: <br><br>
+  &nbsp;&nbsp;1. Її тут ніколи не було, тобто Ви помилилися адресою.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  &nbsp;&nbsp;2. Сторінка просто змінила свою адресу або була видалина.</p>
+<p align="center">Якщо ви потрапили сюди з ссилки нашого сайту, то Вам слід повідомити 
+  <a href="mailto:<!--#include virtual="../main/e-mail.txt"-->?Subject=BUGS">веб адміністратора</a>.</p>
+<p align="center">В будь-якому випадку, знайти потрібну інформацію Вам допоможуть 
+  наша <a class='branches' href='/map/'>карта сайту</a> та <a  class='branches' href='/main/'>головна 
+  сторінка</a>.</p>
+</h3>
+
+<hr width='90%'>
+<div align='right'>
+<a href='/'>
+<img src='/error/images/gerb_grey.gif' border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</BODY>
+</HTML>

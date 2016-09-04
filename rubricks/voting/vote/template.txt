@@ -1,0 +1,12 @@
+<font face="arial" size="2"><b>|`|</b></font>|`|<font face="arial" size="2"><b>|`|</b></font>
+<font face="arial" size="1"><b>|`|</b></font>
+150
+10
+Ответить
+yes|`|0
+yes|`|rus_win|`|vote|`||`||`||`||`|
+http://img.tigvote.ru
+<BODY background="" bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#800080" alink="#ff0000"><center>
+Хотите создать новое голосование?
+Да|`|0
+Нет|`|0

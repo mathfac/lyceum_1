@@ -1,0 +1,31 @@
+<html>
+
+<head>
+
+<title>Головко Станіслав Петрович (директор) & Старовойт Петро Сергійович (завуч)</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+
+<BODY><!--#include virtual="../../main/top.shtml"-->
+<center>
+<IMG SRC="images/Golovka & Petro.JPG" ALT="Головко Станіслав Петрович (директор) & Старовойт Петро Сергійович (завуч)" border="0"><br><br>
+Головко Станіслав Петрович (директор) & Старовойт Петро Сергійович (завуч)
+
+<table>
+<tr>
+    <td align="right" width="10%"><A HREF="
+	2.shtml
+	"
+	><IMG SRC="../../images/arrow_left.gif"  ALT="назад" width="33" height="35" border="0"></A></td>
+
+    <td width="80%" align="center" class="Text"><A href="index.shtml">Оновлені фотографії вчителів</A></td>
+	
+	<td align="left" width="10%"><A HREF="
+	4.shtml
+	"
+	><IMG SRC="../../images/arrow_right.gif"  ALT="вперед" border="0"></A></td>
+</tr>
+</table>
+</center>
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</html>

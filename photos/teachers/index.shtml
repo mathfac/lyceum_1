@@ -1,0 +1,420 @@
+
+<HTML>
+<HEAD>
+<TITLE>Фотографии лицейских учителей</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+
+ 
+<SCRIPT language="JavaScript">
+function Gif_nark(obj) { obj.src="images/a010f1.gif";   window.status="Натисніть"; }
+function Gif_norm(obj) { obj.src="images/a011f1.gif"; window.status=""}
+
+
+
+function Show(id) 
+{
+  var obj = document.all(id);
+
+  if (obj.style.display=="none") obj.style.display="block"
+    else obj.style.display="none";
+}
+</SCRIPT>
+
+
+</HEAD>
+
+<BODY> <!--#include virtual="../../main/top.shtml"-->
+
+<h2 align="center">Полюбуйтесь теперишними учителями</h2>
+	
+<BR><BR>
+
+
+	
+<!-- ----------------------------- Teachers ------------------------- -->		
+	<P onClick="Show('1')" class="ps">	<a name="roma">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	    onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma">Гуска Олександра Семенівна...</A></LI><BR>
+	<TABLE id="1" style="display:none" width="300" cellspacing="2" cellpadding="2" border="0">
+		<TR>
+			<TD><A href="teacher1.shtml"><IMG border="0" src="images/T1n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher1.shtml"> - математика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('2')" class="ps"> <a name="roma2">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	   onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma2">Старовойт Петро Сергійович...</A></LI><BR>
+	<TABLE id="2" style="display:none" width="300" cellspacing="2" cellpadding="2" border="0">
+		<TR>
+			<TD><A href="teacher2.shtml"><IMG border="0" src="images/T2n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher2.shtml">- географія</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('3')" class="ps"> <a name="roma3">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	    onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma3">Головко Станіслав Петрович...</A></LI><BR>
+	<TABLE id="3" style="display:none" width="300" cellspacing="2" cellpadding="2" border="0">
+		<TR>
+			<TD><A href="teacher3.shtml"><IMG border="0" src="images/T3n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher3.shtml">Директор ліцею - математика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('4')" class="ps"> <a name="roma4">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	    onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma4">Яковець Руслана Петрівна...</A></LI><BR>
+	<TABLE id="4" style="display:none" width="300" cellspacing="2" cellpadding="2" border="0">
+		<TR>
+			<TD><A href="teacher4.shtml"><IMG border="0" src="images/T4n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher4.shtml">- українська мова та література</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('5')" class="ps"> <a name="roma5">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	    onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma5">Майданик Олена Генадіївна...</A></LI><BR>
+	<TABLE id="5" style="display:none" width="300" cellspacing="2" cellpadding="2" border="0">
+		<TR>
+			<TD><A href="teacher5.shtml"><IMG border="0" src="images/T5n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher5.shtml">- історія, правознавство, людина і світ</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('6')" class="ps"> <a name="roma6">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	    onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma6">Кейван Петро Миколайович...</A></LI><BR>
+	<TABLE id="6" style="display:none" width="300" cellspacing="2" cellpadding="2" border="0">
+		<TR>
+			<TD><A href="teacher6.shtml"><IMG border="0" src="images/T6n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher6.shtml">- математика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('7')" class="ps"> <a name="roma7">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	   onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma7">Юхнович Лідія Миколаївна...</A></LI><BR>
+	<TABLE id="7" style="display:none" width="300" cellspacing="2" cellpadding="2" border="0">
+		<TR>
+			<TD><A href="teacher7.shtml"><IMG border="0" src="images/T7n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher7.shtml">- українська мова та література</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('8')" class="ps"> <a name="roma8">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	    onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma8">Майданик Володимир Львович...</A></LI><BR>
+	<TABLE id="8" style="display:none" width="300" cellspacing="2" cellpadding="2" border="0">
+		<TR>
+			<TD><A href="teacher8.shtml"><IMG border="0" src="images/T8n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher8.shtml">- географія</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('9')" class="ps"> <a name="roma9">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	    onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma9">Пастернак Катерина Тарасівна...</A></LI><BR>
+	<TABLE id="9" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher9.shtml"><IMG border="0" src="images/T9n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher9.shtml">- математика</A>
+			</TD>
+		</TR>
+	</TABLE>
+
+
+
+
+
+
+<!-- Друга половина -->
+
+
+
+	<P onClick="Show('10')" class="ps"> <a name="roma10">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	     onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma10">Голубнича Наталя Вікторівна...</A></LI><BR>
+	<TABLE id="10" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher10.shtml"><IMG border="0" src="images/T10n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher10.shtml">- інформатика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('11')" class="ps"> <a name="roma11">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	      onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma11">Мокеєва Алла Олегівна...</A></LI><BR>
+	<TABLE id="11" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher11.shtml"><IMG border="0" src="images/T11n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher11.shtml">- українська мова</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('12')" class="ps"> <a name="roma12">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+	    onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma12">Мокан Олександр Олександрович...</A></LI><BR>
+	<TABLE id="12" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher12.shtml"><IMG border="0" src="images/T12n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher12.shtml">- фізичне виховання</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('13')" class="ps"> <a name="roma13">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma13">Жук Ірина Володимирівна...</A></LI><BR>
+	<TABLE id="13" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher13.shtml"><IMG border="0" src="images/T13n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher13.shtml">- математика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('14')" class="ps"> <a name="roma14">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma14">Кобевка Леонора Тодорівна...</A></LI><BR>
+	<TABLE id="14" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher14.shtml"><IMG border="0" src="images/T14n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher14.shtml">- англійська мова</A>
+			</TD>
+		</TR>
+	</TABLE>
+
+	
+	<P onClick="Show('16')" class="ps"> <a name="roma16">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma16">Тіщенко Михайло Григорович...</A></LI><BR>
+	<TABLE id="16" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher16.shtml"><IMG border="0" src="images/T16n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher16.shtml">- фізика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('17')" class="ps"> <a name="roma17">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma17">Козик Олена Іванівна...</A></LI><BR>
+	<TABLE id="17" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher17.shtml"><IMG border="0" src="images/T17n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher17.shtml">- німецька мова</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	
+	
+	
+	
+<!-- Третя частина -->	
+	
+	
+	
+	
+	
+	
+	<P onClick="Show('18')" class="ps"> <a name="roma18">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma18">Деркач Надія Йосипівна...</A></LI><BR>
+	<TABLE id="18" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher18.shtml"><IMG border="0" src="images/T18n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher18.shtml">- інформатика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('19')" class="ps"> <a name="roma19">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma19">Галицька Юлія Карлівна...</A></LI><BR>
+	<TABLE id="19" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher19.shtml"><IMG border="0" src="images/T19n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher19.shtml">- англійська мова</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('20')" class="ps"> <a name="roma20">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma20">Григораш Ірина Лонгинівна...</A></LI><BR>
+	<TABLE id="20" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher20.shtml"><IMG border="0" src="images/T20n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher20.shtml">- німецька мова</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('21')" class="ps"> <a name="roma21">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma21">Харитон Олена Олександрівна...</A></LI><BR>
+	<TABLE id="21" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher21.shtml"><IMG border="0" src="images/T21an.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher21.shtml">- математика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('22')" class="ps"> <a name="roma22">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma22">Пшенічка Пауль Францович...</A></LI><BR>
+	<TABLE id="22" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher22.shtml"><IMG border="0" src="images/T22an.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher22.shtml">- фізика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('23')" class="ps"> <a name="roma23">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma23">Кутирєва Олена Олександрівна...</A></LI><BR>
+	<TABLE id="23" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher23.shtml"><IMG border="0" src="images/T22bn.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher23.shtml">- англійська мова</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('24')" class="ps"> <a name="roma24">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma24">Юрушкевич Валерій Степанович...</A></LI><BR>
+	<TABLE id="24" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher24.shtml"><IMG border="0" src="images/T29n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher24.shtml">- зарубіжна література</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('25')" class="ps"> <a name="roma25">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma25">Березовський Андрій Миколайович...</A></LI><BR>
+	<TABLE id="25" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher25.shtml"><IMG border="0" src="images/T43n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher25.shtml">- фізика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('26')" class="ps"> <a name="roma26">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma26">Клим’юк Іван Іларіонович...</A></LI><BR>
+	<TABLE id="26" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher26.shtml"><IMG border="0" src="images/T40n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher26.shtml">- економіка</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('27')" class="ps"> <a name="roma27">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma27">Лінчук Юрій Степанович...</A></LI><BR>
+	<TABLE id="27" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher27.shtml"><IMG border="0" src="images/T41n.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher27.shtml">- математика</A>
+			</TD>
+		</TR>
+	</TABLE>
+	
+	<P onClick="Show('28')" class="ps"> <a name="roma28">
+	<IMG src="images/a011f1.gif" border="0" align="absmiddle"
+		onMouseOver="Gif_nark(this)" onMouseOut="Gif_norm(this)">
+	<A href="#roma28">Караванова Тетяна Петрівна...</A></LI><BR>
+	<TABLE id="28" style="display:none" width="300" cellspacing="2" cellpadding="2"	border="0">
+		<TR>
+			<TD><A href="teacher28.shtml"><IMG border="0" src="images/T21bn.jpg" alt="Роздивіться краще"></A>
+			</TD>
+			<TD><p class="ps"><A href="teacher28.shtml">- інформатика</A>
+			</TD>
+		</TR>
+
+
+</TABLE>																	
+
+
+
+
+
+
+
+
+<br><br>
+ <!--#include virtual="../../main/bottom.shtml"-->
+</BODY> 
+</HTML>

@@ -1,0 +1,13 @@
+<table><tr><TD  bgcolor="#000080" ><center><font color="#FFFFFF" size="+0,5"><STRONG>|`|</STRONG></font></center></TD></tr></table>|`|<font face="arial" size="+0,5"><b>|`|</b></font>
+<font color="#000000" size="+0,3">|`|</font>
+150
+10
+Проголосувати
+yes|`|0
+yes|`|rus_win|`|vote|`||`|main|`||`||`|1
+http://www.lyceum1.cv.ua/tmp/tigvote/img/
+<BODY background="" bgcolor="#FFFFFF" text="#000000" link="#0000ff" vlink="#800080" alink="#ff0000">
+Чи потрібен нашому сайту Чат?
+Так|`|20
+Ні|`|11
+Іноді|`|3

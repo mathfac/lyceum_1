@@ -1,0 +1,22 @@
+<HTML>
+
+<HEAD>
+
+<link REL="STYLESHEET" TYPE="text/css" HREF="../style.css">
+<TITLE>Ліцейскі Новини</TITLE>
+<meta name="keywords" content="новини, Lyceum, Лицей, news">
+
+</HEAD>
+
+<BODY>
+<!--#include virtual="../main/top.shtml"-->
+<H1 align="center">Новини</H1>
+<p class="preambula">У цьому розділі містяться ліцеїські новини. Обновляю цей розділ я, Максимець Олександр. Тут можна прочитати про події, які відбуваються в ліцеї. Свої новини, побажання, прохання присилайте <a href="mailto:<!--#include virtual="../main/e-mail.txt"-->?Subject=Lyceum News">сюди</a>...</p>
+      <iframe src="obl_list.shtml" frameborder="0" height="218" width="100%"> 
+      </iframe>
+
+ 
+<!--#include virtual="../main/bottom.shtml"--> 
+</BODY>
+
+</HTML>

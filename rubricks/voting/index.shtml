@@ -1,0 +1,227 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html;">
+<title>Голосование</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+<!-- Begin List Poll HTML Code -->
+<script language="JavaScript"><!--
+ function VoteWindow(voteID) {
+ window.open("http://www.voting.ru/cgi-bin/viewpoll.cgi?ID="+voteID,"pollwindow",
+ "toolbar=no,scrollbars=yes,directories=no,status=no,menubar=no,resizable=no,width=680,height=450")
+ }
+ // --></script>
+</head>
+
+<body>
+<!--#include virtual="../../main/top.shtml"--> 
+
+<h1 align="center">Голосование</h1>
+
+<p class='preambula'>Выборам Президента посвящается</p>
+
+
+
+<p class='abzac'>Если Вы придумали вопрос,
+который, по Вашему мнению, стоит здесь
+разместить, шлите его нам <A HREF="mailto:<!--#include virtual="../../main/e-mail.txt"-->%20?Subject=voting"><IMG SRC="../../images/mail.gif"  BORDER=0  ALIGN="Middle" 	ALT="Mail to Lyceum 1"></A>&nbsp;</p>
+<h3 align='left'>А пока что Вашему вниманию предлагаются следующие вопросы:</h3>
+
+<p align="left"><font color="#000000">
+<a href="#favoriteLesson">Ваш любимый предмет в школе :</a><br>
+<a href="#cinema">Как часто Вы ходите в кино ?</a><br>
+<a href="#Избранное">Включили ли Вы наш сайт в Избранное ?</a><br>
+<a href="#Интернет">Вы пользуетесь Интернетом :</a><br>
+<a href="#Секс - ликбез">Наказывал ли Всевышний Вашу
+беспечность в сексе болезнями любви ?</a><br>
+<a href="#Зарплата">Я зарабатываю в месяц :</a></font></p>
+
+<form ACTION="http://www.voting.ru/cgi-bin/viewpoll.cgi"
+METHOD="POST" target="pollwindow" OnSubmit="VoteWindow(6569)">
+<input type="hidden" name="ID" value="6569">
+<table border="1" width="153" bgcolor="#ffffee" cellpadding="3" 
+cellspacing="0"><TR><TD bgcolor="#000000"><font color="#ffffff"><center>
+Вопрос недели</center></font></td></tr>
+<tr><td><table border="0" cellpadding="0"><tr><td>
+<font color="#000000"><a name="favoriteLesson">
+Ваш любимый предмет в школе :</a></font><br><br>
+
+<INPUT type="radio" name="vote" value="1">физика <BR>
+<INPUT type="radio" name="vote" value="2">литература <BR>
+<INPUT type="radio" name="vote" value="3">информатика <BR>
+<INPUT type="radio" name="vote" value="4">физкультура <BR>
+<INPUT type="radio" name="vote" value="5">другой <BR>
+<br><br></td></tr></table>
+</td></tr><tr><td align="center">
+<input type="submit" value="Отправить на голосование" name="submit">
+<small>
+<a href="http://www.voting.ru/cgi-bin/viewpoll.cgi?ID=6569" OnClick="VoteWindow(6569)" target="pollwindow">
+<br>Текущие результаты</a></small></td></tr></table>
+</form>
+
+
+<form ACTION="http://www.voting.ru/cgi-bin/viewpoll.cgi"
+METHOD="POST" target="pollwindow" OnSubmit="VoteWindow(5170)">
+<input type="hidden" name="ID" value="5170">
+<table border="1" width="153" bgcolor="#ddeeff" cellpadding="3" 
+cellspacing="0"><TR><TD bgcolor="#5588cc"><font color="#ffffff"><center>
+Вопрос недели</center></font></td></tr>
+<tr><td><table border="0" cellpadding="0"><tr><td>
+<font color="#000000">
+<a name="cinema">Как часто Вы ходите в кино ?</a></font><br><br>
+
+<INPUT type="radio" name="vote" value="1">регулярно (раз в неделю) <BR>
+<INPUT type="radio" name="vote" value="2">раз в месяц <BR>
+<INPUT type="radio" name="vote" value="3">от случая к случаю <BR>
+<INPUT type="radio" name="vote" value="4">у меня нет на это времени <BR>
+<INPUT type="radio" name="vote" value="5">я считаю кино глупостью <BR>
+<br><br></td></tr></table>
+</td></tr><tr><td align="center">
+<input type="submit" value="Отправить на голосование" name="submit">
+<small>
+<a href="http://www.voting.ru/cgi-bin/viewpoll.cgi?ID=5170" OnClick="VoteWindow(5170)" target="pollwindow">
+<br>Текущие результаты</a></small></td></tr></table>
+</form>
+
+<!-- End List Poll HTML Code -->
+
+
+
+<form ACTION="http://www.voting.ru/cgi-bin/viewpoll.cgi" METHOD="POST" target="pollwindow"
+OnSubmit="VoteWindow(4861)">
+  <input type="hidden" name="ID" value="4861"><table border="1" width="153"
+  bgcolor="#ffffee" cellpadding="3" cellspacing="0">
+    <tr>
+      <td bgcolor="#000000"><div align="center"><center><p><a name="Избранное"><font
+      color="#ffffff">Избранное</font></a></td>
+    </tr>
+    <tr align="center">
+      <td><table border="0" cellpadding="0">
+        <tr>
+          <td><font color="#000000">Включили ли Вы наш сайт в Избранное
+          ?</font><br>
+          <br>
+          <input type="radio" name="vote" value="1">Да <br>
+          <input type="radio" name="vote" value="2">Нет <br>
+          <input type="radio" name="vote" value="3">Сейчас включу</td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr align="center">
+      <td align="center"><input type="submit"
+      value="Отправить на голосование" name="submit"><small><a
+      href="http://www.voting.ru/cgi-bin/viewpoll.cgi?ID=4861" OnClick="VoteWindow(4861)"
+      target="pollwindow"><br>
+      Текущие результаты</a></small></td>
+    </tr>
+  </table>
+</form>
+<!-- Begin List Poll HTML Code -->
+
+<form ACTION="http://www.voting.ru/cgi-bin/viewpoll.cgi" METHOD="POST" target="pollwindow"
+OnSubmit="VoteWindow(4899)">
+  <input type="hidden" name="ID" value="4899"><table border="1" width="153"
+  bgcolor="#cccccc" cellpadding="3" cellspacing="0">
+    <tr>
+      <td bgcolor="#000080"><div align="center"><center><p><a name="Интернет"><font
+      color="#ffffff">Интернет</font></a></td>
+    </tr>
+    <tr align="center">
+      <td><table border="0" cellpadding="0" width="235">
+        <tr>
+          <td width="233"><font color="#000000">Вы пользуетесь Интернетом :</font><br>
+          <br>
+          <input type="radio" name="vote" value="1">только дома <br>
+          <input type="radio" name="vote" value="2">только на работе <br>
+          <input type="radio" name="vote" value="3">преимущественно дома <br>
+          <input type="radio" name="vote" value="4">преимущественно на работе
+          <br>
+          <input type="radio" name="vote" value="5">я никогда им не
+          пользовался </td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr align="center">
+      <td align="center"><input type="submit"
+      value="Отправить на голосование" name="submit"> <small><a
+      href="http://www.voting.ru/cgi-bin/viewpoll.cgi?ID=4899" OnClick="VoteWindow(4899)"
+      target="pollwindow">Текущие результаты</a></small></td>
+    </tr>
+  </table>
+</form>
+<!-- End List Poll HTML Code -->
+
+<form ACTION="http://www.voting.ru/cgi-bin/viewpoll.cgi" METHOD="POST" target="pollwindow"
+OnSubmit="VoteWindow(4898)">
+  <input type="hidden" name="ID" value="4898"><table border="1" width="153"
+  bgcolor="#ffffee" cellpadding="3" cellspacing="0">
+    <tr>
+      <td bgcolor="#000000"><div align="center"><center><p><a name="Секс - ликбез"><font
+      color="#ffffff">Секс - ликбез</font></a></td>
+    </tr>
+    <tr align="center">
+      <td><table border="0" cellpadding="0" width="245">
+        <tr>
+          <td width="243"><font color="#000000">Наказывал ли Всевышний Вашу
+          беспечность в сексе болезнями любви ?</font><br>
+          <br>
+          <input type="radio" name="vote" value="1">Да, конечно, и не раз. <br>
+          <input type="radio" name="vote" value="2">Да, но только однажды. <br>
+          <input type="radio" name="vote" value="3">Нет, я всегда
+          предохраняюсь. <br>
+          <input type="radio" name="vote" value="4">Нет, я полный 'облико
+          морале'. <br>
+          <input type="radio" name="vote" value="5">А что такое СЕКС? </td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr align="center">
+      <td align="center"><input type="submit"
+      value="Отправить на голосование" name="submit"> <small><a
+      href="http://www.voting.ru/cgi-bin/viewpoll.cgi?ID=4898" OnClick="VoteWindow(4898)"
+      target="pollwindow">Текущие результаты</a></small></td>
+    </tr>
+  </table>
+</form>
+<!-- End List Poll HTML Code -->
+
+<form ACTION="http://www.voting.ru/cgi-bin/viewpoll.cgi" METHOD="POST" target="pollwindow"
+OnSubmit="VoteWindow(4901)">
+  <input type="hidden" name="ID" value="4901"><table border="1" width="153"
+  bgcolor="#F0F0DF" cellpadding="3" cellspacing="0">
+    <tr>
+      <td bgcolor="#CDC477"><div align="center"><center><p><a name="Зарплата"><font
+      color="#000000">Зарплата</font></a></td>
+    </tr>
+    <tr align="center">
+      <td><table border="0" cellpadding="0" width="234">
+        <tr>
+          <td width="232"><font color="#000000">Я зарабатываю в месяц :</font><br>
+          <br>
+          <input type="radio" name="vote" value="1">я пока что не работаю <br>
+          <input type="radio" name="vote" value="2">до $50 <br>
+          <input type="radio" name="vote" value="3">$50-$100 <br>
+          <input type="radio" name="vote" value="4">$100-$150 <br>
+          <input type="radio" name="vote" value="5">$150-$200 <br>
+          <input type="radio" name="vote" value="6">$200-$300 <br>
+          <input type="radio" name="vote" value="7">больше $300 </td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr align="center">
+      <td align="center"><input type="submit"
+      value="Отправить на голосование" name="submit"><small><a
+      href="http://www.voting.ru/cgi-bin/viewpoll.cgi?ID=4901" OnClick="VoteWindow(4901)"
+      target="pollwindow"><br>
+      Текущие результаты</a></small></td>
+    </tr>
+  </table>
+</form>
+<!-- End List Poll HTML Code -->
+<!--#include virtual="../../main/bottom.shtml"--> 
+</body>
+</html>

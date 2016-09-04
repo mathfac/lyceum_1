@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Реєстрація</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../style.css">
+</head>
+<BODY>
+<!--#include virtual="../main/top.shtml"-->
+<h2 align="center">Реєстрація</h2>
+<!--#include virtual="../cgi-bin/contacts/register.cgi"-->
+
+<!--#include virtual="../main/bottom.shtml"-->
+</BODY>  
+</html>

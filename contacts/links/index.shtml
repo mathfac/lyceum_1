@@ -1,0 +1,95 @@
+<html>
+
+<head>
+<title>Лінки</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css"></head>
+<!--#include virtual="../../main/top.shtml"--> 
+        <body> <H1 align="center">Лінки</H1>
+<ul>
+          <li class="abzac" ><a href="http://zd.kiev.ua">ZD-портал</a> - вот так 
+            проводит время прогрессивная киевская молодежь</li>
+          <li class="abzac"><a href="http://www.computerscience.cv.ua/">Страничка 
+            выпускников кафедры ЭВМ 2000 года (ЧГУ)</a> - здесь тоже есть наши 
+            люди :)</li>
+          <li class="abzac"><a href="http://www.vintik.net/vlinks/imm/find.html ">Find 
+            Old Friends</a> - Поиск бывших одноклассников</li>
+          <LI> <SPAN class="abzac"><A HREF="http://www.russiantoronto.com/converter.htm" NAME="http://www.russiantoronto.com/converter.htm">КОНВЕРТОР 
+            ИЗ ЛАТИНИЦЫ В КИРИЛЛИЦУ</A> </SPAN>
+          <LI class="abzac"><A HREF="http://woron.de/" TARGET="http://woron.de/">Russian 
+            keyboard</A> 
+          <LI class="abzac"><A href="http://pub34.bravenet.com/freelink/show.php?usernum=2897447810&cpv=1">Коллекция 
+            наших линков</A> – добавь свой линк! 
+        </ul>
+
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr> 
+            <td width="76%" align=center> <P ALIGN="center"> <SPAN class="Text">Дорогие друзья!<FONT COLOR="red"> 
+                Внимание!</FONT></SPAN></P>
+              <P class="abzac"> Сейчас стало намного легче дать знать о нашем 
+                сайте всем знакомым Вам выпускникам лицея и просто хорошим людям. 
+                Для этого пользуйтесь устройством, которое расположено справа. 
+                Если раньше приходилось часами просиживать у телефона, иногда 
+                платя приличные суммы за лонг дистанс, втолковывая какому-то не 
+                слишком понятливому однокашке, что такое http и как пишется лицеум, 
+                то теперь достаточно просто ввести Ваше имя, E-mail, арес друга 
+                и адрес Нашего с Вами сайта: <FONT COLOR="blue"><A href="http://www.lyceum1.cv.ua">www.lyceum1.cv.ua</A></FONT> 
+              </P>
+              <BR> <SPAN class="Text"> Thank you for your collaboration! 
+              </SPAN> <CENTER>
+                <div align="center"></div>
+              </CENTER></td>
+            <TD width="24%"> <div align="center"> 
+                <form action="http://pub12.bravenet.com/announce/send.php" method="post">
+                  <input type="hidden" name="usernum" value="981880309" />
+                  <input type="hidden" name="cpv" value="1" />
+                  <table cellpadding="0" cellspacing="0" border="0" bgcolor="#999999">
+                    <tr> 
+                      <td height="370"> <table width="100%" height="100%" border="0" cellpadding="2" cellspacing="1" class="WindowTop">
+                          <tr> 
+                            <th width="100%" bgcolor="#eeeeee" class="WindowTop">Дай <BR>
+                              знать о нас другим!</th>
+                          </tr>
+                          <tr bgcolor="cornsilk"> 
+                            <td align="center" class="WindowBottom"> <FONT size="1" face="Verdana,Arial"><b>Введите 
+                              Ваше имя:</b><br />
+                              <input type="text" name="name" size="20" maxlength="100">
+                              <br />
+                              <br />
+                              <b>Ваш E-mail:</b><br />
+                              <input type="text" name="youremail" size="20" maxlength="100" />
+                              <br />
+                              <br />
+                              <b>E-mail Вашего друга:</B><br />
+                              <input type="text" name="emailaddress" size="20" maxlength="100" />
+                              <br />
+                              <br />
+                              <b>Комментарии:</B><br />
+                              <textarea name="yourmessage" cols="25" rows="5" wrap="soft">http://www.lyceum1.cv.ua</textarea>
+                              </FONT> 
+                              <CENTER>
+                                <FONT size="1" face="Verdana,Arial"> <br />
+                                Получить копию </FONT> 
+                              </CENTER>
+                              <FONT size="1" face="Verdana,Arial"> 
+                              <input type="checkbox" name="metoo" value="yes" />
+                              &nbsp; 
+                              <input type="submit" name="submit" value="Send" />
+                              </FONT></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <br>
+                </form>
+              </div></TD>
+          </tr>
+        </table>
+
+
+
+
+
+</body>
+<!--#include virtual="../../main/bottom.shtml"--> 
+</html>
+

@@ -1,0 +1,30 @@
+<html>
+
+<head>
+
+<title>Пшенічка Пауль Францович (фізика)</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+
+<BODY><!--#include virtual="../../main/top.shtml"-->
+<center>
+<IMG SRC="images/PFrancovich.JPG" ALT="Пшенічка Пауль Францович (фізика)" border="0"><br><br>
+Пшенічка Пауль Францович (фізика)
+<table>
+<tr>
+    <td align="right" width="10%"><A HREF="
+	9.shtml
+	"
+	><IMG SRC="../../images/arrow_left.gif"  ALT="назад" width="33" height="35" border="0"></A></td>
+
+    <td width="80%" align="center" class="Text"><A href="index.shtml">Оновлені фотографії вчителів</A></td>
+	
+	<td align="left" width="10%"><A HREF="
+	11.shtml
+	"
+	><IMG SRC="../../images/arrow_right.gif"  ALT="вперед" border="0"></A></td>
+</tr>
+</table>
+</center>
+</BODY>  <!--#include virtual="../../main/bottom.shtml"-->
+</html>

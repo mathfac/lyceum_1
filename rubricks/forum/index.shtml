@@ -1,0 +1,26 @@
+<html>
+
+<head>
+<title>Рубрики</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../../style.css">
+</head>
+
+<body>
+<!--#include virtual="../main/top.shtml"-->
+<h1 align="center">Рубрики</h1>
+<p class="preambula">У цей розділ ми помістили все, що не попало у головне меню, щоб не засмічувати його. Якщо хочете вбити якусь рубрику, замиліть нам, виставимо це питання на голосування.</p>
+
+<p class="abzac">Ми тут назбирали різної швалі, яку вам і пропонуємо: </p>
+<ul>
+ <li><a href=oficioz/>Офіціоз</a> – інформація про ліцей, в основному офіційна.</li>
+ <li><a href='http://www.zakutok.com/Lycey1.html' target="_parent">Форум</a> –  тут все зрозуміло.</li>
+ <li><a href=lyrics/>Куток меломана</a> – тексти пісень різних груп та виконавців.</li>
+ <li><a href=job/>Робота</a> – поради по знаходженню роботи.</li>
+ <li><a href=rest/>Віпочинок</a> – місця, де краще відпочивати.</li>
+ <li><a href=history/>Історія сайту</a> – еволюція сайту.</li>
+ <li><a href=voting/>Голосування</a> – перегляд результатів та голосування.</li>
+</ul>
+
+<!--#include virtual="../main/bottom.shtml"-->
+</body>
+</html>

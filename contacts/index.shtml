@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Зв’язки</title>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../style.css">
+</head>
+<BODY>
+<!--#include virtual="../main/top.shtml"-->
+<h1 align="center">Зв’язки</h1>
+<!--#include virtual="../cgi-bin/contacts/contact.cgi"-->
+
+<!--#include virtual="../main/bottom.shtml"-->
+</BODY>  
+</html>

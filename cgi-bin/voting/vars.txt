@@ -1,0 +1,9 @@
+$data_dir="../../rubricks/voting"; # локальный путь к файлам с данными
+$cgiUrl="http://www.lyceum1.cv.ua/cgi-bin/voting"; # URL нахождения скрипта tigvote.cgi
+$help_url="http://www.lyceum1.cv.ua/rubricks/voting/help"; # URL (полный или относительный) к каталогу /help. Можно использовать 
+$lines=20; # количество строк, отображаемых на странице просмотра лога
+
+# ниже ничего не менять!
+$LOCK_DIR="$data_dir/temp/"; # каталог для создания файла блокировки
+$MAX_WAIT=10; # максимальное время ожидания блокировки
+$NAME_LEN=100; # максимальная длина файла

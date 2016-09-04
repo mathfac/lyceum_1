@@ -1,0 +1,18 @@
+
+<HTML>
+<HEAD>
+
+
+<TITLE>Заготовочка для дротиков</TITLE>
+<link REL="STYLESHEET" TYPE="text/css" HREF="../style.css">
+</HEAD>
+
+<BODY>
+<!--#include virtual="../main/top.shtml"--> 
+<h2 align="center"> А это заготовочка для дротиков</h2>
+
+<div align="center"> <img src="images/Director4.jpg"> </div>
+<!--#include virtual="../main/bottom.shtml"--> 
+</BODY>
+
+</HTML>
