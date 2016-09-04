@@ -7,7 +7,7 @@ function w3IncludeHTML() {
   for (i = 0; i < z.length; i++) {
     if (z[i].getAttribute("w3-include-html")) {
       a = z[i].cloneNode(false);
-      file = z[i].getAttribute("w3-include-html");
+      file = "/lyceum_1" + z[i].getAttribute("w3-include-html");
       var xhttp = new XMLHttpRequest();
       xhttp.onreadystatechange = function() {
         if (xhttp.readyState == 4 && xhttp.status == 200) {
